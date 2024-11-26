@@ -38,6 +38,7 @@ To open cypress: npx cypress open
 
 cy.injectAxe > To inject the axe-core runtime in test application
 cy.checkA11y() > To scan page for accessibility features
+
 ===
 
 To setup applitools eyes:
